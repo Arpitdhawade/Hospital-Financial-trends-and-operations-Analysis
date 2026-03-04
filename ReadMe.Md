@@ -101,6 +101,7 @@ Key recommendations and insights are based on the following areas:
 </div>
 
 ## Business Recommendation 
+<div align="justify">
 
 ### **Finance** :
 * To reduce the financial burden on the hospital, we should renegotiate contracts with insurance providers to increase the realization percentage to 80–85%. We need to restructure contracts with LIC and Jeevan IC to reduce average out-of-pocket costs, as these providers have a larger patient pool. The contract with the Government Insurance provider, which has the lowest realization rate and leaves patients with the highest debt, must be urgently revised.
@@ -108,6 +109,7 @@ Key recommendations and insights are based on the following areas:
 * Bangalore, Delhi, and Hyderabad, despite being non-state cities, have a larger patient base and generate high revenue, making them the ideal locations to open satellite clinics. Osmanabad, Aurangabad, and Solapur have underperformed despite their location advantage; targeted marketing campaigns are needed to increase patient volume in these areas.
 ### **Operations**
 * Lung Cancer and Breast Cancer (Chemo), along with AHD and Myocardial Infarction (Cardio), are the most valuable service lines. Investment in these service lines should be increased to improve their operational efficiency. Sepsis, Cerebral Infarction, and Heart Disease service lines should be closely monitored for optimal bed utilization, given their higher average lengths of stay. Alcoholic Cirrhosis, with its high ALOS and significantly low revenue generation, requires immediate bed occupancy optimization; otherwise, it will contribute to bed blocking for other service lines.
+</div>
 
 ## Tools Use 
 
@@ -116,6 +118,7 @@ Key recommendations and insights are based on the following areas:
 |Excel & Power Query           | For Data Cleaning and Transformation          |
 |VS code                       | To write complex queries(Using Window functions, CTE and Subquery) for Analysis         |
 |MySQL                         | For connecting to database                    |
+|PowerBI                       | For data visualization                        |
 |AI tool(GPT, Gemini and Claude)| For research and Simulated dataset generation |
 
 * Images used in report are [here](Images/ERD.png)
