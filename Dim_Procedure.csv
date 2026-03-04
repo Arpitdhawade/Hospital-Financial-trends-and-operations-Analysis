@@ -1,0 +1,52 @@
+Procedure_Key,CPT_code,Procedure_Name
+1,83036,Hemoglobin A1c
+2,80061,Lipid panel
+3,80061,Lipid panel
+4,94010,Spirometry
+5,94060,Bronchodilation responsiveness
+6,92941,Percutaneous coronary angioplasty
+7,93306,Echocardiography
+8,81001,Urinalysis
+9,71045,Chest X-ray
+10,87804,Influenza test
+11,43239,EGD (Upper Endoscopy)
+12,72148,MRI Lumbar Spine
+13,90791,Psychiatric diagnostic evaluation
+14,99213,Office visit
+15,44970,Laparoscopic appendectomy
+16,84443,TSH assay
+17,85025,Complete Blood Count (CBC)
+18,93458,Coronary angiography
+19,97802,Medical nutrition therapy
+20,80053,Comprehensive metabolic panel
+21,77067,Mammography
+22,71250,CT Thorax
+23,86703,HIV-1/HIV-2 antibody
+24,85025,Complete Blood Count (CBC)
+25,99213,Office visit
+26,80076,Hepatic function panel
+27,73560,X-ray Knee
+28,77080,DXA Scan
+29,93000,Electrocardiogram (EKG)
+30,99213,Office visit
+31,99291,Critical care
+32,99213,Office visit
+33,92567,Tympanometry
+34,52601,TURP
+35,47562,Laparoscopic cholecystectomy
+36,80053,Comprehensive metabolic panel
+37,96360,IV infusion
+38,99213,Office visit
+39,99395,Preventive visit
+40,90471,Immunization administration
+41,95816,Electroencephalogram (EEG)
+42,93000,Electrocardiogram (EKG)
+43,95004,Allergy skin test
+44,99213,Office visit
+45,99213,Office visit
+46,99213,Office visit
+47,82947,Glucose test
+48,59400,Routine obstetric care
+49,90832,Psychotherapy
+50,99213,Office visit
+51,87635,RT-PCR 

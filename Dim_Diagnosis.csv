@@ -1,0 +1,52 @@
+Diagnosis_Key,ICD10_Code,Diagnosis_Name
+1,E11.9,Type 2 diabetes mellitus without complications
+2,I10,Essential (primary) hypertension
+3,E78.5,"Hyperlipidemia, unspecified"
+4,J45.909,"Unspecified asthma, uncomplicated"
+5,J44.9,Chronic obstructive pulmonary disease
+6,I21.9,Acute myocardial infarction
+7,I50.9,"Heart failure, unspecified"
+8,N39.0,Urinary tract infection
+9,J18.9,"Pneumonia, unspecified organism"
+10,J10,Influenza
+11,K21.9,Gastro-esophageal reflux disease
+12,M54.5,Low back pain
+13,F32.9,Major depressive disorder
+14,G43.909,Migraine
+15,K35.80,Acute appendicitis
+16,E03.9,Hypothyroidism
+17,D50.9,Iron deficiency anemia
+18,I25.10,Atherosclerotic heart disease
+19,E66.9,Obesity
+20,N18.9,Chronic kidney disease
+21,C50.919,Breast cancer
+22,C34.90,Lung cancer
+23,B20,HIV disease
+24,A41.9,Sepsis
+25,L03.90,Cellulitis
+26,K70.30,Alcoholic cirrhosis
+27,M17.9,Osteoarthritis knee
+28,M81.0,Osteoporosis
+29,R07.9,Chest pain
+30,R51,Headache
+31,I63.9,Cerebral infarction
+32,J06.9,Upper respiratory infection
+33,H66.90,Otitis media
+34,N40.0,Benign prostatic hyperplasia
+35,K80.20,Cholelithiasis
+36,E87.6,Hypokalemia
+37,E86.0,Dehydration
+38,R10.9,Abdominal pain
+39,Z00.00,General adult medical examination
+40,Z23,Immunization encounter
+41,G40.909,Epilepsy
+42,I48.91,Atrial fibrillation
+43,J30.9,Allergic rhinitis
+44,L20.9,Atopic dermatitis
+45,K59.00,Constipation
+46,R06.02,Shortness of breath
+47,R73.03,Prediabetes
+48,O80,Normal delivery
+49,F41.9,Anxiety disorder
+50,K52.9,Gastroenteritis
+51,U07.1,COVID-19

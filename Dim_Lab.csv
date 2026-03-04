@@ -1,0 +1,52 @@
+Lab_Key,Loinc_code,Test_Name
+1,4548-4 ,HbA1c
+2,3094-0 ,HbA1c
+3,2093-3 ,Cholesterol
+4,1988-5 ,FEV1/FVC
+5,1988-5 ,FEV1/FVC
+6,49563-0 ,Troponin I
+7,33762-9 ,BNP
+8,5804-0 ,Urinalysis
+9,4544-3 ,Hemocrit
+10,5862-8 ,Flu Ag
+11,1920-8 ,AST
+12,8302-2 ,Height
+13,61152-5 ,PHQ-9
+14,777-3 ,Platelets
+15,6690- 2,WBC
+16,3016-3 ,TSH
+17,718-7 ,Hemoglobin
+18,2085-9 ,HDL
+19,39156-5 ,BMI
+20,2160-0 ,Creatinine
+21,18500-9 ,CA27.29
+22,2106-5 ,Carcinoembryonic Ag
+23,24467-3 ,CD4 Count
+24,3243-3 ,Lactate
+25,6690-2 ,WBC
+26,1742-6 ,ALT
+27,3045-2 ,ESR
+28,3016-3 ,TSH
+29,34714-6 ,INR
+30,1975-2 ,Bilirubin
+31,2857-1 ,PSA
+32,17861-6,Calcium
+33,711-2,Eosinophils
+34,19113-0 ,IgE
+35,2345-7 ,Glucose
+36,14749-6 ,Glucose
+37,718-7 ,Hemoglobin
+38,1988-5 ,CRP
+39,38445-3,Calprotectin
+40,11572-5,Rheumatoid Factor
+41,3016-3,TSH
+42,13457-7 ,LDL
+43,2857-1,PSA
+44,2132-9,Vitamin B12
+45,1649-3 ,Vitamin D
+46,6598-7 ,Troponin T
+47,17862-4,H.Pyroli
+48,664-3 ,KOH prep
+49,5804-0 ,Urinalysis
+50,24323-8,Metabolic Panel
+51,94558-4,Rapid Immunoassay

@@ -1,0 +1,52 @@
+Medication_Key,ATC_code,Medication
+1,A10BA02,Metformin
+2,C09AA02,Enalapril
+3,C10AA05,Atorvastatin
+4,R03AC02,Albuterol
+5,R03BB04,Tiotropium bromide
+6,B01AC06,Aspirin
+7,C03CA01,Furosemide
+8,J01MA02,Ciprofloxacin
+9,J01FA09,Clarithromycin
+10,J05AH02,Oseltamivir
+11,A02BC01,Omeprazole
+12,M01AE01,Ibuprofen
+13,N06AB03,Fluoxetine
+14,N02CC01,Sumatriptan
+15,J01DD04,Ceftriaxone
+16,H03AA01,Levothyroxine
+17,B03AA07,Ferrous sulfate
+18,C10AA01,Simvastatin
+19,A08AB01,Orlistat
+20,A11CC05,Calcitriol
+21,L01XC03,Trastuzumab
+22,L01XX45,Pembrolizumab
+23,J05AR03,Tenofovir
+24,J01DH02,Meropenem
+25,J01CF05,Cephalexin
+26,A11DA01,Thiamine
+27,M01AE02,Naproxen
+28,H03AA01,Levothyroxine
+29,B01AF02,Apixaban
+30,A05AA02,Ursodeoxycholic acid
+31,G04CA02,Tamsulosin
+32,M05BA04,Alendronic acid
+33,R01AD08,Fluticasone
+34,D07AA02,Hydrocortisone topical
+35,N04BA02,Levodopa
+36,S01BC03,Diclofenac ophthalmic
+37,S01EE01,Latanoprost
+38,L04AB02,Infliximab
+39,A07EC02,Mesalazine
+40,L04AX03,Methotrexate
+41,N06AB10,Escitalopram
+42,C10AA07,Rosuvastatin
+43,L02AE02,Leuprorelin
+44,B03BA01,Cyanocobalamin
+45,A11CC05,Cholecalciferol
+46,C01DA02,Nitroglycerin
+47,A02BC02,Pantoprazole
+48,D01BA02,Terbinafine
+49,G04BD04,Oxybutynin
+50,A11AA03,Multivitamin
+51,J05AB16,Remdesivir IV
